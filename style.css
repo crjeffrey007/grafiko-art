@@ -156,7 +156,16 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #C86F06; }
 	width: 100%;
 	position: absolute;
 	bottom: 0;
-}        
+}    
+
+.group {
+	background: #000000;
+}   
+
+
+.group container {
+	background: #000000;
+}   
 
 /* === LOGO */
 #logo {
