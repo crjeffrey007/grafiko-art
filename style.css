@@ -149,7 +149,7 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #C86F06; }
 
 #border-header {
 	height: 12px;
-	background: #cad0d1;
+	background: #000000;
 	border: 1px solid #e3e6e6;
 	border-width: 1px 0;
 	width: 100%;
