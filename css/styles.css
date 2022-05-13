@@ -3534,11 +3534,11 @@ input::-moz-focus-inner {
     padding-top: 20vh;
     padding-bottom: 7vh;
     position: relative;
-    font-size: 14rem;
+    font-size: 13rem;
 }
 
 .s-hero__content h1 {
-    font-size: 18rem;
+    font-size: 16rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
@@ -3552,8 +3552,8 @@ input::-moz-focus-inner {
 .s-hero__content h1::before {
     display: block;
     content: "";
-    height: 10rem;
-    width: 20rem;
+    height: 9rem;
+    width: 18rem;
     background-image: url(../images/dots.svg);
     -webkit-transform: translateX(-4rem);
     transform: translateX(-4rem);
