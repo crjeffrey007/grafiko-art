@@ -3534,10 +3534,11 @@ input::-moz-focus-inner {
     padding-top: 20vh;
     padding-bottom: 7vh;
     position: relative;
+    font-size: 14rem;
 }
 
 .s-hero__content h1 {
-    font-size: 20rem;
+    font-size: 18rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
