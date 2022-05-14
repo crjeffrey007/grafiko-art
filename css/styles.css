@@ -4204,19 +4204,19 @@ html.no-csstransitions .s-hero__content {
 }
 
 .service-icon--frontend {
-    background-image: url(../images/icons/services/icon-frontend.svg);
+    background-image: url(../images/icons/services/comercio-electronico.png);
 }
 
 .service-icon--research {
-    background-image: url(../images/icons/services/icon-research.svg);
+    background-image: url(../images/icons/services/seo.png);
 }
 
 .service-icon--illustration {
-    background-image: url(../images/icons/services/icon-illustration.svg);
+    background-image: url(../images/icons/services/redes-sociales.png);
 }
 
 .service-icon--ecommerce {
-    background-image: url(../images/icons/services/icon-ecommerce.svg);
+    background-image: url(../images/icons/services/diseno-web.png);
 }
 
 
