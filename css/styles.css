@@ -4026,7 +4026,7 @@ html.no-csstransitions .s-hero__content {
     display: block;
     width: 28rem;
     height: 17.6rem;
-    background-image: url(../images/coding-g58d27acf2_640.jpg);
+    background-image: url(../images/dots.svg);
     opacity: .25;
     position: absolute;
     top: 0;
@@ -4061,7 +4061,7 @@ html.no-csstransitions .s-hero__content {
 }
 
 .s-about__photo {
-    background-image: url(../images/about-photo.jpg);
+    background-image: url(../images/coding-g58d27acf2_640.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
