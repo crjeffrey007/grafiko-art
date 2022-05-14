@@ -4270,7 +4270,7 @@ html.no-csstransitions .s-hero__content {
 /* thumbnail
  *---------------------------------------------- */
 .folio-item__thumb a {
-    display: block;
+    display: none;
 }
 
 .folio-item__thumb a::before {
