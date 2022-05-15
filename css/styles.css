@@ -4974,15 +4974,4 @@ html.no-csstransitions .s-hero__content {
     }
 }
 
-.slider-item-show2 {
-    --swiffy-slider-item-count: 2;
-}
 
-.py-4 {
-    padding-top: 1.5rem!important;
-    padding-bottom: 1.5rem!important;
-}
-
-.slider-item-show2:not(.slider-item-snapstart) .slider-container>*, .slider-item-show4:not(.slider-item-snapstart) .slider-container>*, .slider-item-show6:not(.slider-item-snapstart) .slider-container>* {
-    scroll-snap-align: unset;
-}
