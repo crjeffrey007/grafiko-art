@@ -4809,7 +4809,7 @@ html.no-csstransitions .s-hero__content {
 }
 
 .s-footer__block--end .btn {
-    background-color: red;
+    background-color: #d90b3c;
     border: .2rem solid white;
     color: white;
     margin-right: 0;
@@ -4996,7 +4996,7 @@ html.no-csstransitions .s-hero__content {
 
 /* Add a dark background color to the active button */
 .btn.active {
-  background-color: red;
+  background-color: #d90b3c;
    color: white;
 }
 
