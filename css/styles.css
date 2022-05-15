@@ -4989,7 +4989,7 @@ html.no-csstransitions .s-hero__content {
   border: none;
   outline: none;
   padding: 12px 16px;
-  background-color: white;
+  background-color: #8e908f;
   cursor: pointer;
 }
 
@@ -5000,6 +5000,8 @@ html.no-csstransitions .s-hero__content {
 
 /* Add a dark background color to the active button */
 .btn.active {
-  background-color: #666;
+  background-color: red;
    color: white;
 }
+
+
