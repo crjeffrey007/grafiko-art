@@ -5000,8 +5000,20 @@ html.no-csstransitions .s-hero__content {
          cursor: pointer;
 }
 
-.slide-content {width: 25vw; color: #fff; padding:3vw 18vw 3vw 9vw;}
-.slide-date {color: #0a8acb; font-size: 1.1vw; font-weight: 400; letter-spacing: 0.1vw; padding-bottom: 1.4vw;}
+    .slide-content {
+         width: 25vw; 
+         color: #fff; 
+         padding:3vw 18vw 3vw 9vw;
+}
+
+    .slide-date {
+         color: #0a8acb; 
+         font-size: 1.1vw; 
+         font-weight: 400; 
+         letter-spacing: 0.1vw; 
+         padding-bottom: 1.4vw;
+}
+
 .slide-title {font-size: 1.2vw; font-weight: 400; letter-spacing: 0.1vw; line-height: 1.55vw; padding-bottom: 1.8vw;}
 .slide-text {font-size: 0.80vw; line-height: 1.2vw; opacity: 0.8; padding-bottom: 4vw;}
 .slide-more {font-weight: 400; letter-spacing: 0.1vw; float: left; font-size: 0.9vw;}
