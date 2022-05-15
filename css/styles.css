@@ -4972,3 +4972,9 @@ html.no-csstransitions .s-hero__content {
         font-size: 1.4rem;
     }
 }
+
+.item-title1 {
+    font-size: var(--text-xl);
+    line-height: var(--vspace-1_25);
+    margin-top: 10px;
+}
