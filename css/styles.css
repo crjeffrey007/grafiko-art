@@ -4974,4 +4974,9 @@ html.no-csstransitions .s-hero__content {
     }
 }
 
-
+{
+    
+   .card-title h5 {
+       margin-top: 10px;
+       margin-bottom: var(--vspace-0_5);
+}
