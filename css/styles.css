@@ -2400,7 +2400,7 @@ input[type="button"] {
     transition: all .3s;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: var(--color-btn);
+    background-color: #d90b3c;
     border: 0.2rem solid var(--color-btn);
 }
 
@@ -2416,7 +2416,7 @@ input[type="reset"]:focus,
 input[type="button"]:focus {
     background-color: var(--color-btn-hover);
     border-color: var(--color-btn-hover);
-    color: var(--color-btn-hover-text);
+    color: #d90b3c;
     outline: 0;
 }
 
