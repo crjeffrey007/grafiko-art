@@ -3620,7 +3620,7 @@ input::-moz-focus-inner {
 .s-hero__video {
     position: absolute;
     right: 10.4rem;
-    bottom: 20vh;
+    bottom: 0vh;
 }
 
 .s-hero__video svg {
