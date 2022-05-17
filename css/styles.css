@@ -4725,6 +4725,7 @@ html.no-csstransitions .s-hero__content {
 .s-contact__email a {
     color: white;
     border-bottom: 2px solid transparent;
+    font-size: 30px;
 }
 
 .s-contact__email a:hover, 
