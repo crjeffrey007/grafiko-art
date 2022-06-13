@@ -138,17 +138,6 @@
             </div>
         </li>
     </ul>
-
-    <button type="button" class="slider-nav" aria-label="Go left"></button>
-    <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
-
-    <div class="slider-indicators">
-        <button class="active" aria-label="Go to slide"></button>
-        <button aria-label="Go to slide"></button>
-        <button aria-label="Go to slide"></button>
-        <button aria-label="Go to slide"></button>
-        <button aria-label="Go to slide"></button>
-    </div>
 </div>
 
  <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
@@ -232,31 +221,6 @@
         </li>
     </ul>
     
-    <!-- contact
-    ================================================== -->
-    <section class="s-contact">
-
-        <div class="row narrower s-contact__top h-text-center">
-            <div class="column">
-                <h3 class="h6">Contáctanos</h3>
-                <h1 class="display-1">
-                Tienes una idea o un proyecto en mente? Contáctanos.
-                Podemos trabajar junto con sus ideas y crear algo grandioso. Escribenos a:
-                </h1>
-            </div>
-        </div> <!-- s-footer__top -->
-
-        <div class="row h-text-center">
-            <div class="column">
-                <p class="s-contact__email">
-                    <a href="mailto:info@grafikoart.com">info@grafikoart.com</a>
-                </p>
-            </div>
-        </div>
-
-    </section>  <!-- end s-contact -->
-
-
     <!-- footer
     ================================================== -->
     <footer class="s-footer">
