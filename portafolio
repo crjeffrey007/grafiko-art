@@ -112,34 +112,21 @@
             </div>
         </div> <!-- end s-portfolio__top-->
         
- <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside1 slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
-    <ul class="slider-container1 py-4">
-        <li class="slide-visible">
-            <div class="card shadow h-100">
-                <div class="ratio ratio-16x9">
-                    <img src="images/icons/clients/hoteldlucia.png" class="card-img-top" loading="lazy" alt="...">
-                </div>
-                <div class="card-body1 p-3 p-xl-5">
-                    <h3 class="card-title h5">Hotel D'Lucia</h3>
-                    <div><a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
-                    </div>
-                </div>
+    <section class="section-sm">
+        <div class="container">
+          <div class="row row-30">
+            <div class="col-lg-3 col-xl-4">
+              <img src="images/img-08-370x237.jpg" alt="" width="370" height="237"/>
             </div>
-        </li>
-        <li class="slide-visible">
-            <div class="card shadow h-100">
-                <div class="ratio ratio-16x9">
-                    <img src="images/icons/clients/arenalvacations.png" class="card-img-top" loading="lazy" alt="...">
-                </div>
-                <div class="card-body1 p-3 p-xl-5">
-                    <h3 class="card-title h5">Arenal Vacations</h3>
-                    <a href="https://www.arenalvacationscr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
-                </div>
+            <div class="col-lg-5 col-xl-4">
+              <img src="images/img-09-370x237.jpg" alt="" width="370" height="237"/>
             </div>
-        </li>
-    </ul>
-</div>
-
+            <div class="col-lg-4">
+              <img src="images/img-10-370x237.jpg" alt="" width="370" height="237"/>
+            </div>
+          </div>
+        </div>
+      </section>
  <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
     <ul class="slider-container py-4">
         <li class="slide-visible">
