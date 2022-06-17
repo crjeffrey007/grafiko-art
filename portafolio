@@ -105,7 +105,7 @@
             </div>
             <div class="column large-6 w-900-stack">
                 <h1 class="display-1" data-aos="fade-up">
-                    Conozca nuestros proyectos realizados
+                    Proyectos realizados
                 </h1>
             </div>
         </div> 
@@ -165,46 +165,46 @@
    
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
-                    <img src="images/icons/clients/hoteldlucia.png" 
-                    srcset="images/icons/clients/hoteldlucia.png 1000w, 
-                    images/icons/clients/hoteldlucia.png 500w" 
+                    <img src="images/icons/clients/altoverde.png" 
+                    srcset="images/icons/clients/altoverde.png 1000w, 
+                    images/icons/clients/altoverde.png 500w" 
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
                     <figcaption>
-                        <h3 class="card-title h5">Hotel D'Lucia</h3>
+                        <h3 class="card-title h5">Agua Alto Verde</h3>
                     </figcaption>
                 </figure>
-                    <div><a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    <div><a href="https://www.altoverde.com.co" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
                     </div>
                     </div>
    
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
-                    <img src="images/icons/clients/arenalvacations.png" 
-                    srcset="images/icons/clients/arenalvacations.png 1000w, 
-                    images/icons/clients/arenalvacations.png 500w" 
+                    <img src="images/icons/clients/abogado.png" 
+                    srcset="images/icons/clients/abogado.png 1000w, 
+                    images/icons/clients/abogado.png 500w" 
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
                     <figcaption>
-                        <h3 class="card-title h5">Arenal Vacations</h3>
+                        <h3 class="card-title h5">ABC Consulting CR</h3>
                     </figcaption>
                 </figure>
-                    <div><a href="https://www.arenalvacationscr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    <div><a href="https://www.abcconsulting-cr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
                     </div>
             </div>
    
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
-                    <img src="images/icons/clients/ardillas.png" 
-                    srcset="images/icons/clients/ardillas.png 1000w, 
-                    images/icons/clients/ardillas.png 500w" 
+                    <img src="images/icons/clients/funprede.png" 
+                    srcset="images/icons/clients/funprede.png 1000w, 
+                    images/icons/clients/funprede.png 500w" 
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
                     <figcaption>
-                        <h3 class="card-title h5">Cabañas Las Ardillas</h3>
+                        <h3 class="card-title h5">FUNPREDE</h3>
                     </figcaption>
                 </figure>
-                <div><a href="https://www.grupoardillascostarica.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                <div><a href="https://www.funpredecr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
                     </div>
             </div>
    
