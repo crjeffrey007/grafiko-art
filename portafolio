@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html class="no-js" lang="es">
 <head>
@@ -23,15 +25,12 @@
     <link rel="stylesheet" href="css/vendor.css">
     
     <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer></script>
-    <link href="css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
     
     <!-- script
     ================================================== -->
     <script src="js/modernizr.js"></script>
     <script defer src="js/fontawesome/all.min.js"></script>
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
-    
     <!-- favicons
     ================================================== -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -84,7 +83,7 @@
     
             <nav class="s-header__nav-wrap">
                 <ul class="s-header__nav">
-                    <li><a class="smoothscroll" href="#inicio" title="Inicio">Inicio</a></li>
+                    <li><a class="smoothscroll" href="https://www.grafikoart.com" title="Inicio">Inicio</a></li>
                     <li><a class="smoothscroll" href="#nosotros" title="Sobre Grafiko Art">Sobre Grafiko Art</a></li>
                     <li><a class="smoothscroll" href="#servicios" title="Servicios">Servicios</a></li>
                     <li><a class="smoothscroll" href="#portfolio" title="Portafolio">Portafolio de Trabajos</a></li>
@@ -96,24 +95,101 @@
 
         <a class="s-header__menu-toggle" href="#0"><span>Menu</span></a>
 
-    </header> 
+    </header> <!-- end s-header -->
+
+
+    <!-- hero
+    ================================================== -->
+    <section id="inicio" class="s-hero target-section">
+
+        <div class="s-hero__bg">
+            <div class="gradient-overlay"></div>
+        </div>
+
+        <div class="row s-hero__content">
+            <div class="column">
+
+                <h1>Grafiko Art</h1>
+                <div class="s-hero__content-about">
+
+                  <ul>
+ 	                <li><strong>Desarrollo Web</strong></li>
+ 	                <li><strong>Desarrollo de Apps</strong></li>
+                   	<li><strong>Marketing</strong></li>
+ 	                <li><strong>Social Media</strong></li>
+                	<li><strong>Aprendizaje para nuestros clientes</strong></li>
+                  </ul>
     
-   <!-- end s-header -->
-   
-           <div class="row s-porfolio__top">
-            <div class="column large-6 w-900-stack">
-                <div class="section-title" data-num="03" data-aos="fade-up">
-                    <h3 class="h6">Portafolio</h3>
+                    <footer>
+                        <div class="s-hero__content-social">
+                            <a href="https://www.facebook.com/grafikoartdesing" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                            <a href="https://www.instagram.com/grafikoart/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                            <a href="https://wa.link/s2xorw" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+                        </div>
+                    </footer>
                 </div>
+
             </div>
-            <div class="column large-6 w-900-stack">
-                <h1 class="display-1" data-aos="fade-up">
-                    Conozca nuestros proyectos realizados
-                </h1>
+        </div>
+
+        <div class="s-hero__video">
+
+        </div>
+
+        <div class="s-hero__scroll">
+            <a href="#nosotros" class="s-hero__scroll-link smoothscroll">
+                Desplazar hacia Abajo
+            </a>
+        </div>
+
+    </section> <!-- end s-hero -->
+
+
+    <!-- about
+    ================================================== -->
+    <section id="nosotros" class="s-about">
+
+        <div class="horizontal-line"></div>
+
+        <div class="row">
+            <div class="column large-12">
+
+                <div class="section-title" data-num="01" data-aos="fade-up">
+                    <h3 class="h6">Sobre Grafiko Art</h3>
+                </div>
+
             </div>
-        </div> 
-	<!-- end s-portfolio__top-->
-	
+
+            <div class="column large-6 w-900-stack s-about__intro-text">
+                
+                <h2 class="display-1" data-aos="fade-up">
+                    Grafiko Art es una agencia con una amplia experiencia en desarrollo web y desarrollo de apps con mucha creatividad.
+                </h2>
+                 <h2 class="display-1" data-aos="fade-up">
+                    Contamos con amplia experiencia en marketing y manejo de redes sociales.
+                </h2>
+
+            </div>
+
+            <div class="column large-6 w-900-stack s-about__photo-block">
+                <div class="s-about__photo" data-aos="fade-up"></div>
+            </div>
+        </div>
+
+    </section> <!-- end s-about -->
+
+
+    <!-- services
+    ================================================== -->
+    <section id="servicios" class="s-services">
+
+        <div class="row">
+            <div class="column large-12">
+                <div class="section-title" data-num="02" data-aos="fade-up">
+                    <h3 class="h6">Nuestros Servicios</h3>
+                </div>
+        </div>
+
         <div class="row block-large-1-2 block-tab-full s-services__services item-list">
             <div class="column item item-service" data-aos="fade-up">
                 <span class="service-icon service-icon--product-design"></span>
@@ -160,7 +236,151 @@
         </div>
 
     </section> <!-- end s-services -->
-    
+        
+    <section id="portfolio" class="s-portfolio">
+
+        <div class="row s-porfolio__top">
+            <div class="column large-6 w-900-stack">
+                <div class="section-title" data-num="03" data-aos="fade-up">
+                    <h3 class="h6">Portafolio</h3>
+                </div>
+            </div>
+            <div class="column large-6 w-900-stack">
+                <h1 class="display-1" data-aos="fade-up">
+                    Conozca nuestros proyectos realizados
+                </h1>
+                <a href="#" target="_blank" rel="noopener noreferrer" class="btn h-full-width">Ver Portafolio</a>
+            </div>
+        </div> <!-- end s-portfolio__top-->
+        
+ <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
+    <ul class="slider-container py-4">
+        <li class="slide-visible">
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/hoteldlucia.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-3 p-xl-5">
+                    <h3 class="card-title h5">Hotel D'Lucia</h3>
+                    <div><a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="slide-visible">
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/arenalvacations.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-3 p-xl-5">
+                    <h3 class="card-title h5">Arenal Vacations</h3>
+                    <a href="https://www.arenalvacationscr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/ardillas.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-3 p-xl-5">
+                    <h3 class="card-title h5">Cabañas Las Ardillas</h3>
+                    <a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/altoverde.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body  p-3 p-xl-5">
+                    <h3 class="card-title h5">Agua Alto Verde</h3>
+                    <a href="https://www.altoverde.com.co" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/abogado.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body  p-3 p-xl-5">
+                    <h3 class="card-title h5">ABC Consulting CR</h3>
+                    <a href="https://www.abcconsulting-cr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/funprede.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body  p-3 p-xl-5">
+                    <h3 class="card-title h5">FUNPREDE</h3>
+                    <a href="https://www.funpredecr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/caperucita.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body  p-3 p-xl-5">
+                    <h3 class="card-title h5">CONFECCIONES LA CAPERUCITA</h3>
+                    <a href="https://www.lacaperucitacr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+            <div class="card shadow h-100">
+                <div class="ratio ratio-16x9">
+                    <img src="images/icons/clients/hosteltorrebahia.png" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body  p-3 p-xl-5">
+                    <h3 class="card-title h5">Hostel Torre Bahia</h3>
+                    <a href="https://www.hosteltorrebahia.com.br" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                </div>
+            </div>
+        </li>
+    </ul>
+
+    <button type="button" class="slider-nav" aria-label="Go left"></button>
+    <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
+
+    <div class="slider-indicators">
+        <button class="active" aria-label="Go to slide"></button>
+        <button aria-label="Go to slide"></button>
+        <button aria-label="Go to slide"></button>
+        <button aria-label="Go to slide"></button>
+        <button aria-label="Go to slide"></button>
+    </div>
+</div>
+    <!-- contact
+    ================================================== -->
+    <section class="s-contact">
+
+        <div class="row narrower s-contact__top h-text-center">
+            <div class="column">
+                <h3 class="h6">Contáctanos</h3>
+                <h1 class="display-1">
+                Tienes una idea o un proyecto en mente? Contáctanos.
+                Podemos trabajar junto con sus ideas y crear algo grandioso. Escribenos a:
+                </h1>
+            </div>
+        </div> <!-- s-footer__top -->
+
+        <div class="row h-text-center">
+            <div class="column">
+                <p class="s-contact__email">
+                    <a href="mailto:info@grafikoart.com">info@grafikoart.com</a>
+                </p>
+            </div>
+        </div>
+
+    </section>  <!-- end s-contact -->
+
+
     <!-- footer
     ================================================== -->
     <footer class="s-footer">
