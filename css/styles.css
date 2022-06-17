@@ -1570,7 +1570,7 @@ html, body {
 }
 
 body {
-    background: var(--color-body);
+    background: hsl(204deg 23% 9%);
     font-family: var(--font-1);
     font-size: var(--text-size);
     font-style: normal;
