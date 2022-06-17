@@ -729,7 +729,7 @@ textarea {
 /* rows
  * ------------------------------------- */
 .row {
-    width: 92%;
+    width: 88%;
     max-width: var(--width-grid-max);
     margin: 0 auto;
     display: -ms-flexbox;
