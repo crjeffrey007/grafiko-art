@@ -112,21 +112,40 @@
             </div>
         </div> <!-- end s-portfolio__top-->
         
-    <section class="section-sm">
-        <div class="container">
-          <div class="row row-30">
-            <div class="col-lg-3 col-xl-4">
-              <img src="images/img-08-370x237.jpg" alt="" width="370" height="237"/>
-            </div>
-            <div class="col-lg-5 col-xl-4">
-              <img src="images/img-09-370x237.jpg" alt="" width="370" height="237"/>
-            </div>
-            <div class="col-lg-4">
-              <img src="images/img-10-370x237.jpg" alt="" width="370" height="237"/>
+      <section class="section section-md bg-white">
+        <div class="shell">
+          <div class="range">
+              <div class="range range-30 range-center">
+                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                  <article class="box-minimal">
+             <figure class="figure-light"><img class="img-centered" src="images/pvc.jpg" width="175" height="215"/>
+                <figcaption>
+                    <div class="box-minimal__text">Nuestras confecciones en PVC son %100 impermeables y vulcanizadas. Ziper y broches de calidad. Se da garantía de que NO entra agua.</div>
+                    <div class="box-minimal__divider"></div>
+                  </article>
+                </div>
+                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                  <article class="box-minimal">
+             <figure class="figure-light"><img class="img-centered" src="images/uniforme.jpg" width="175" height="215"/>
+                <figcaption>
+                    <div class="box-minimal__text">Todas las tallas y variedad de colores disponibles en la confección de uniformes.</div>
+                    <div class="box-minimal__divider"></div>
+                  </article>
+                </div>
+                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                  <article class="box-minimal">
+             <figure class="figure-light"><img class="img-centered" src="images/sombrero.jpg" width="175" height="215"/>
+                <figcaption>
+                    <div class="box-minimal__text">Variedad de colores a escoger en capas de motos, chaquetas, sombreros y uniformes.</div>
+                    <div class="box-minimal__divider"></div>
+                  </article>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </section>
+      </section>  
+      
  <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
     <ul class="slider-container py-4">
         <li class="slide-visible">
