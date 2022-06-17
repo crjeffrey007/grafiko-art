@@ -2381,7 +2381,7 @@ input[type="reset"],
 input[type="button"] {
     --btn-height: var(--vspace-btn);
 
-    display: inline-block;
+    display: flex;
     font-family: var(--font-2);
     font-weight: 600;
     font-size: var(--text-xs);
@@ -2402,6 +2402,8 @@ input[type="button"] {
     -moz-osx-font-smoothing: grayscale;
     background-color: #d90b3c;
     border: 0.2rem solid var(--color-btn);
+    justify-content: center;
+    margin: auto;
 }
 
 .btn:hover, 
