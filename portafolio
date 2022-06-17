@@ -112,39 +112,50 @@
             </div>
         </div> <!-- end s-portfolio__top-->
         
-      <section class="section section-md bg-white">
-        <div class="shell">
-          <div class="range">
-              <div class="range range-30 range-center">
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <article class="box-minimal">
-             <figure class="figure-light"><img class="img-centered" src="images/pvc.jpg" width="175" height="215"/>
-                <figcaption>
-                    <div class="box-minimal__text">Nuestras confecciones en PVC son %100 impermeables y vulcanizadas. Ziper y broches de calidad. Se da garantía de que NO entra agua.</div>
-                    <div class="box-minimal__divider"></div>
-                  </article>
-                </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <article class="box-minimal">
-             <figure class="figure-light"><img class="img-centered" src="images/uniforme.jpg" width="175" height="215"/>
-                <figcaption>
-                    <div class="box-minimal__text">Todas las tallas y variedad de colores disponibles en la confección de uniformes.</div>
-                    <div class="box-minimal__divider"></div>
-                  </article>
-                </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <article class="box-minimal">
-             <figure class="figure-light"><img class="img-centered" src="images/sombrero.jpg" width="175" height="215"/>
-                <figcaption>
-                    <div class="box-minimal__text">Variedad de colores a escoger en capas de motos, chaquetas, sombreros y uniformes.</div>
-                    <div class="box-minimal__divider"></div>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>  
+<div class="slider">
+<div class="slider-wrapper flex">
+	<div class="slide flex">
+		<div class="slide-image slider-link prev"><img src="https://goranvrban.com/codepen/img2.jpg"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">30.07.2017.</div>
+			<div class="slide-title">LOREM IPSUM DOLOR SITE MATE, AD EST ABHORREANT</div>
+			<div class="slide-text">Lorem ipsum dolor sit amet, ad est abhorreant efficiantur, vero oporteat apeirian in vel. Et appareat electram appellantur est. Ei nec duis invenire. Cu mel ipsum laoreet, per rebum omittam ex. </div>
+			<div class="slide-more">READ MORE</div>
+		</div>	
+	</div>
+	<div class="slide flex">
+		<div class="slide-image slider-link next"><img src="https://goranvrban.com/codepen/img3.jpg"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">30.08.2017.</div>
+			<div class="slide-title">LOREM IPSUM DOLOR SITE MATE, AD EST ABHORREANT</div>
+			<div class="slide-text">Lorem ipsum dolor sit amet, ad est abhorreant efficiantur, vero oporteat apeirian in vel. Et appareat electram appellantur est. Ei nec duis invenire. Cu mel ipsum laoreet, per rebum omittam ex. </div>
+			<div class="slide-more">READ MORE</div>
+		</div>	
+	</div>	
+	<div class="slide flex">
+		<div class="slide-image slider-link next"><img src="https://goranvrban.com/codepen/img5.jpg"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">30.09.2017.</div>
+			<div class="slide-title">LOREM IPSUM DOLOR SITE MATE, AD EST ABHORREANT</div>
+			<div class="slide-text">Lorem ipsum dolor sit amet, ad est abhorreant efficiantur, vero oporteat apeirian in vel. Et appareat electram appellantur est. Ei nec duis invenire. Cu mel ipsum laoreet, per rebum omittam ex. </div>
+			<div class="slide-more">READ MORE</div>
+		</div>	
+	</div>
+		<div class="slide flex">
+		<div class="slide-image slider-link next"><img src="https://goranvrban.com/codepen/img6.jpg"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">30.10.2017.</div>
+			<div class="slide-title">LOREM IPSUM DOLOR SITE MATE, AD EST ABHORREANT</div>
+			<div class="slide-text">Lorem ipsum dolor sit amet, ad est abhorreant efficiantur, vero oporteat apeirian in vel. Et appareat electram appellantur est. Ei nec duis invenire. Cu mel ipsum laoreet, per rebum omittam ex. </div>
+			<div class="slide-more">READ MORE</div>
+		</div>	
+	</div>
+</div>
+<div class="arrows">
+<a href="#" title="Previous" class="arrow slider-link prev"></a>
+<a href="#" title="Next" class="arrow slider-link next"></a>
+</div>
+</div>
       
  <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-outside slider-nav-round slider-nav-visible slider-indicators-outside slider-indicators-round slider-indicators-dark slider-nav-animation slider-nav-animation-fadein slider-item-first-visible">
     <ul class="slider-container py-4">
