@@ -121,7 +121,7 @@
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
                     <figcaption>
-                        Hotel D'Lucia
+                        <h3 class="card-title h5">Hotel D'Lucia</h3>
                     </figcaption>
                 </figure>
                     <div><a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
