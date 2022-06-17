@@ -107,43 +107,49 @@
                 <h1 class="display-1" data-aos="fade-up">
                     Conozca nuestros proyectos realizados
                 </h1>
-                <a href="#" target="_blank" rel="noopener noreferrer" class="btn h-full-width">Ver Portafolio</a>
             </div>
         </div> 
         <!-- end s-portfolio__top-->
         
             <div class="row">
    
-            <div class="large-3 tab-6 mob-12 column">
-                <p>
-                Cras aliquet. Integer faucibus, eros ac molestie placerat, enim tellus varius lacus,
-                nec dictum nunc tortor id urna. Suspendisse dapibus ullamcorper pede. Vivamus ligula ipsum,
-                faucibus at, tincidunt eget, porttitor non, dolor. 
-                </p>
+            <div class="large-4 tab-6 mob-12 column">
+                <figure>
+                    <img src="images/wheel-500.jpg" 
+                    srcset="images/wheel-1000.jpg 1000w, 
+                    images/wheel-500.jpg 500w" 
+                    sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+
+                    <figcaption>
+                        Here is some random picture.
+                    </figcaption>
+                </figure>
             </div>
    
-            <div class="large-3 tab-6 mob-12 column">
-                <p>
-                Cras aliquet. Integer faucibus, eros ac molestie placerat, enim tellus varius lacus,
-                nec dictum nunc tortor id urna. Suspendisse dapibus ullamcorper pede. Vivamus ligula ipsum,
-                faucibus at, tincidunt eget, porttitor non, dolor. 
-                </p>
+            <div class="large-4 tab-6 mob-12 column">
+                <figure>
+                    <img src="images/wheel-500.jpg" 
+                    srcset="images/wheel-1000.jpg 1000w, 
+                    images/wheel-500.jpg 500w" 
+                    sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+
+                    <figcaption>
+                        Here is some random picture.
+                    </figcaption>
+                </figure>
             </div>
    
-            <div class="large-3 tab-6 mob-12 column">
-                <p>
-                Cras aliquet. Integer faucibus, eros ac molestie placerat, enim tellus varius lacus,
-                nec dictum nunc tortor id urna. Suspendisse dapibus ullamcorper pede. Vivamus ligula ipsum,
-                faucibus at, tincidunt eget, porttitor non, dolor. 
-                </p>
-            </div>
-   
-            <div class="large-3 tab-6 mob-12 column">
-                <p>
-                Cras aliquet. Integer faucibus, eros ac molestie placerat, enim tellus varius lacus,
-                nec dictum nunc tortor id urna. Suspendisse dapibus ullamcorper pede. Vivamus ligula ipsum,
-                faucibus at, tincidunt eget, porttitor non, dolor. 
-                </p>
+            <div class="large-4 tab-6 mob-12 column">
+                <figure>
+                    <img src="images/wheel-500.jpg" 
+                    srcset="images/wheel-1000.jpg 1000w, 
+                    images/wheel-500.jpg 500w" 
+                    sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+
+                    <figcaption>
+                        Here is some random picture.
+                    </figcaption>
+                </figure>
             </div>
    
         </div>    
