@@ -115,16 +115,18 @@
    
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
-                    <img src="images/wheel-500.jpg" 
-                    srcset="images/wheel-1000.jpg 1000w, 
-                    images/wheel-500.jpg 500w" 
+                    <img src="images/icons/clients/hoteldlucia.png" 
+                    srcset="images/icons/clients/hoteldlucia.png 1000w, 
+                    images/icons/clients/hoteldlucia.png 500w" 
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
                     <figcaption>
-                        Here is some random picture.
+                        Hotel D'Lucia
                     </figcaption>
                 </figure>
-            </div>
+                    <div><a href="https://www.hotelducia.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    </div>
+                    </div>
    
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
