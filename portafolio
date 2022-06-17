@@ -81,10 +81,10 @@
     
             <nav class="s-header__nav-wrap">
                 <ul class="s-header__nav">
-                    <li><a class="smoothscroll" href="index.html" title="Inicio">Inicio</a></li>
+                    <li><a href="https://www.grafikoart.com/" title="Inicio">Inicio</a></li>
                     <li><a class="smoothscroll" href="#nosotros" title="Sobre Grafiko Art">Sobre Grafiko Art</a></li>
                     <li><a class="smoothscroll" href="#servicios" title="Servicios">Servicios</a></li>
-                    <li><a class="smoothscroll" href="#portfolio" title="Portafolio">Portafolio de Trabajos</a></li>
+                    <li><a href="portfolio" title="https://www.grafikoart.com/portafolio">Portafolio de Trabajos</a></li>
                     <li><a href="https://wa.link/s2xorw" target="_blank" rel="noopener noreferrer" class="btn btn-primary"><i class="fab fa-whatsapp"></i>Contáctanos</a></li>
                 </ul>
             </nav> <!-- end s-header__nav-wrap -->
@@ -159,8 +159,7 @@
             </div>
    
         </div>    
-        
-        
+             
       <div class="row">
    
             <div class="large-4 tab-6 mob-12 column">
@@ -209,6 +208,41 @@
             </div>
    
         </div>    
+        
+        
+              <div class="row">
+   
+            <div class="large-4 tab-6 mob-12 column">
+                <figure>
+                    <img src="images/icons/clients/caperucita.png" 
+                    srcset="images/icons/clients/caperucita.pngg 1000w, 
+                    images/icons/clients/caperucita.png 500w" 
+                    sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+
+                    <figcaption>
+                        <h3 class="card-title h5">Confecciones La Caperucita</h3>
+                    </figcaption>
+                </figure>
+                    <div><a href="https://www.lacaperucitacr.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    </div>
+                    </div>
+   
+            <div class="large-4 tab-6 mob-12 column">
+                <figure>
+                    <img src="images/icons/clients/hosteltorrebahia.png" 
+                    srcset="images/icons/clients/hosteltorrebahia.png 1000w, 
+                    images/icons/clients/hosteltorrebahia.png 500w" 
+                    sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+
+                    <figcaption>
+                        <h3 class="card-title h5">Hostel Torre Bahia</h3>
+                    </figcaption>
+                </figure>
+                    <div><a href="https://www.hosteltorrebahia.com.br" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Proyecto</a>
+                    </div>
+            </div>
+   
+        </div>  
 
   <!-- footer
     ================================================== -->
