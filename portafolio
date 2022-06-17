@@ -99,53 +99,67 @@
     </header> 
     
    <!-- end s-header -->
-        
-    <section id="portfolio" class="s-portfolio">
-
-        <div class="row s-porfolio__top">
+   
+           <div class="row s-porfolio__top">
             <div class="column large-6 w-900-stack">
-                <div class="section-title" data-num="01" data-aos="fade-up">
+                <div class="section-title" data-num="03" data-aos="fade-up">
                     <h3 class="h6">Portafolio</h3>
                 </div>
             </div>
             <div class="column large-6 w-900-stack">
-           <a href="https://wa.link/s2xorw" target="_blank" rel="noopener noreferrer" class="btn h-full-width">Contáctanos</a>
+                <h1 class="display-1" data-aos="fade-up">
+                    Conozca nuestros proyectos realizados
+                </h1>
             </div>
-        </div> <!-- end s-portfolio__top-->
-        
-		<div id="portfolio">
-			<div class="container">
-				<h2>Portfolio</h2>
-				<div class="portfolio-row">
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-1.jpg" alt="" />
-						<p>Project One</p>
-					</div>
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-2.jpg" alt="" />
-						<p>Project Two</p>
-					</div>
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-3.jpg" alt="" />
-						<p>Project Three</p>
-					</div>
-				</div>
-				<div class="portfolio-row">
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-4.jpg" alt="" />
-						<p>Project Four</p>
-					</div>
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-5.jpg" alt="" />
-						<p>Project Five</p>
-					</div>
-					<div class="portfolio-row-box">
-						<img src="/img/portfolio-6.jpg" alt="" />
-						<p>Project Six</p>
-					</div>
-				</div>
-			</div>
-		</div>
+        </div> 
+	<!-- end s-portfolio__top-->
+	
+        <div class="row block-large-1-2 block-tab-full s-services__services item-list">
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--product-design"></span>
+                <h3 class="item-title">Desarrollo Web</h3>
+                <p>
+                Desarrollamos sitios webs haciendo realidad las ideas de nuestros clientes.
+                </p>
+            </div>
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--branding"></span>
+                <h3 class="item-title">Desarrollo de Apps</h3>
+                <p>
+                Desarrollamos sus poyectos e ideas en Apps.
+                </p>
+            </div>
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--frontend"></span>
+                <h3 class="item-title">Comercio Electrónico</h3>
+                <p>
+                Sistemas de reservas y sistemas de pagos en línea.
+                </p>
+            </div>
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--research"></span>
+                <h3 class="item-title">Posicionamiento SEO</h3>
+                <p>
+                Posicionamos su sitio web en los motores de búsqueda como Google, Bing, Yandex, etc.
+                </p>
+            </div>
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--illustration"></span>
+                <h3 class="item-title">Redes Sociales</h3>
+                <p>
+                Manejo y diseño creativo para sus redes sociales.
+                </p>
+            </div>
+            <div class="column item item-service" data-aos="fade-up">
+                <span class="service-icon service-icon--ecommerce"></span>
+                <h3 class="item-title">Diseño Gráfico</h3>
+                <p>
+                Diseñamos su marca y sus ideas con diseño gráfico de calidad.
+                </p>
+            </div>
+        </div>
+
+    </section> <!-- end s-services -->
     
     <!-- footer
     ================================================== -->
