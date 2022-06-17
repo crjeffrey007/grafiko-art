@@ -94,6 +94,7 @@
         <a class="s-header__menu-toggle" href="#0"><span>Menu</span></a>
 
     </header> <!-- end s-header -->
+    
         <div class="row">
    
             <div class="large-4 mob-12 column">
@@ -136,6 +137,31 @@
             </div>
    
         </div>
+
+    <!-- contact
+    ================================================== -->
+    <section class="s-contact">
+
+        <div class="row narrower s-contact__top h-text-center">
+            <div class="column">
+                <h3 class="h6">Contáctanos</h3>
+                <h1 class="display-1">
+                Tienes una idea o un proyecto en mente? Contáctanos.
+                Podemos trabajar junto con sus ideas y crear algo grandioso. Escribenos a:
+                </h1>
+            </div>
+        </div> <!-- s-footer__top -->
+
+        <div class="row h-text-center">
+            <div class="column">
+                <p class="s-contact__email">
+                    <a href="mailto:info@grafikoart.com">info@grafikoart.com</a>
+                </p>
+            </div>
+        </div>
+
+    </section>  <!-- end s-contact -->
+
 
     <!-- footer
     ================================================== -->
