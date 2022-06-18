@@ -215,7 +215,7 @@
             <div class="large-4 tab-6 mob-12 column">
                 <figure>
                     <img src="images/icons/clients/caperucita.png" 
-                    srcset="images/icons/clients/caperucita.pngg 1000w, 
+                    srcset="images/icons/clients/caperucita.png 1000w, 
                     images/icons/clients/caperucita.png 500w" 
                     sizes="(max-width: 1000px) 100vw, 1000px" alt="">
 
