@@ -82,8 +82,8 @@
             <nav class="s-header__nav-wrap">
                 <ul class="s-header__nav">
                     <li><a href="https://www.grafikoart.com/" title="Inicio">Inicio</a></li>
-                    <li><a class="smoothscroll" href="#nosotros" title="Sobre Grafiko Art">Sobre Grafiko Art</a></li>
-                    <li><a class="smoothscroll" href="#servicios" title="Servicios">Servicios</a></li>
+                    <li><a class="smoothscroll" href="https://www.grafikoart.com/#nosotros" title="Sobre Grafiko Art">Sobre Grafiko Art</a></li>
+                    <li><a class="smoothscroll" href="https://www.grafikoart.com/#servicios" title="Servicios">Servicios</a></li>
                     <li><a href="portafolio" title="https://www.grafikoart.com/portafolio">Portafolio de Trabajos</a></li>
                     <li><a href="https://wa.link/s2xorw" target="_blank" rel="noopener noreferrer" class="btn btn-primary"><i class="fab fa-whatsapp"></i>Contáctanos</a></li>
                 </ul>
@@ -107,7 +107,8 @@
                 <h1 class="display-1" data-aos="fade-up">
                     Proyectos realizados
                 </h1>
-            </div>
+               <h3 class="item-title">Desarrollo Web Creativo</h3>           
+             </div>
         </div> 
         <!-- end s-portfolio__top-->
         
