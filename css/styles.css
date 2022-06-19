@@ -1771,10 +1771,7 @@ figure {
     display: block;
     margin-left: 0;
     margin-right: 0;
-    margin-top: 50px;
     justify-content: center;
-    width: 250px;
-    border-radius: 150px;
 }
 
 figure img+figcaption {
