@@ -5015,10 +5015,75 @@ html.no-csstransitions .s-hero__content {
 	}
 }
 
-.circulo {
-    margin: 0;
-    vertical-align: bottom;
-    width: 300px;
-    border-radius: 150px;
-    margin-top: 50px;
+.s-about__photo1 {
+    background-image: url(../images/desarrollo-web.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}
+	
+.s-about__photo2 {
+    background-image: url(../images/ecommerce.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}
+	
+.s-about__photo3 {
+    background-image: url(../images/seo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}	
+	
+.s-about__photo4 {
+    background-image: url(../images/apps.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}
+	
+.s-about__photo5 {
+    background-image: url(../images/socialmedia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}
+	
+	
+.s-about__photo6 {
+    background-image: url(../images/grafico.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
 }
