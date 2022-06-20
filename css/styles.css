@@ -5088,3 +5088,15 @@ html.no-csstransitions .s-hero__content {
     left: var(--gutter-lg);
     bottom: var(--vspace-1);
 }
+	
+.s-about__photo7 {
+    background-image: url(../images/videos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: var(--vspace-0_5);
+    right: var(--gutter-lg);
+    left: var(--gutter-lg);
+    bottom: var(--vspace-1);
+}
