@@ -4894,7 +4894,7 @@ html.no-csstransitions .s-hero__content {
     transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: fixed;
     bottom: var(--vspace-1);
-    right: 4rem;
+    left: 4rem;
 }
 
 .ss-go-top a {
