@@ -5015,3 +5015,8 @@ html.no-csstransitions .s-hero__content {
         line-height: 66px;
 	}
 }
+	
+.hubspot-link__container.sproket {
+    color: #9fa0a2;
+    display: none;
+}
