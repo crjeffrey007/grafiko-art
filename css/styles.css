@@ -2017,6 +2017,7 @@ button,
 .video-container, 
 .ss-custom-select {
     margin-bottom: var(--vspace-1);
+    color: white;
 }
 
 
