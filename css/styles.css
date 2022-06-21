@@ -5023,3 +5023,12 @@ html.no-csstransitions .s-hero__content {
     color: #9fa0a2;
     display: none;
 }
+	
+.hubspot-link__container.sproket .hubspot-link__icon {
+    width: 30px;
+    margin-right: 0;
+    float: left;
+    margin-top: -9px;
+    margin-left: -5px;
+    display: none;
+}
